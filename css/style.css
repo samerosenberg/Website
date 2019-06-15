@@ -1,0 +1,101 @@
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    max-height: 100%;
+  }
+}
+
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+.top-nav-collapse {
+  background-color: #555957; }
+
+
+
+h1 {
+  letter-spacing: 8px;
+}
+
+h5 {
+  letter-spacing: 3px;
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
+
+.page-footer{
+    background: rgb(1,124,0);
+background: linear-gradient(207deg, rgba(1,124,0,0.9953379953379954) 8%, rgba(85,105,113,1) 58%); 
+}
+
+/* Full Page Carousel itself*/
+.carousel {
+  height: 100%; }
+  .carousel .carousel-inner {
+    height: 100%; }
+    .carousel .carousel-inner .carousel-item,
+    .carousel .carousel-inner .active {
+      height: 100%; }
+
+.btn-outline-mine {
+  color: #fff;
+  border-color:#fff;
+    
+}
+
+.btn-outline-mine:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #fff;
+}
+
+.btn-outline-mine:focus, .btn-outline-mine.focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
+.btn-outline-mine.disabled, .btn-outline-mine:disabled {
+  color: #fff;
+  background-color: transparent;
+}
+
+.btn-outline-mine:not(:disabled):not(.disabled):active, .btn-outline-mine:not(:disabled):not(.disabled).active,
+.show > .btn-outline-mine.dropdown-toggle {
+  color: #fff;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-outline-mine:not(:disabled):not(.disabled):active:focus, .btn-outline-mine:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-mine.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
+/*.bg{
+    
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/bg.jpg");
+    
+    height: 100%;
+    width: auto;
+    
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}*/
