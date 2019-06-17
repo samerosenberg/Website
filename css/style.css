@@ -84,6 +84,11 @@ background: linear-gradient(207deg, rgba(1,124,0,0.9953379953379954) 8%, rgba(85
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
+.postshome{
+    background-image:url("../img/bg.jpg");
+    height:50%;
+}
+
 /*.bg{
     
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/bg.jpg");
