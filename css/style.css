@@ -85,7 +85,7 @@ background: linear-gradient(207deg, rgba(1,124,0,0.9953379953379954) 8%, rgba(85
 }
 
 .postshome{
-    background-image:url("../img/bg.jpg");
+    position:relative;
     height:50%;
 }
 
