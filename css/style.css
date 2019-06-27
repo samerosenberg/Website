@@ -20,7 +20,7 @@ header,
   background-color: rgba(0, 0, 0, 0.5); }
 
 .top-nav-collapse {
-  background-color: #555957; }
+  background-color:rgba(0, 0, 0, 0.5); }
 
 
 
@@ -38,8 +38,7 @@ h5 {
 }
 
 .page-footer{
-    background: rgb(1,124,0);
-background: linear-gradient(207deg, rgba(1,124,0,0.9953379953379954) 8%, rgba(85,105,113,1) 58%); 
+    background: rgba(0, 0, 0, 0.5);
 }
 
 /* Full Page Carousel itself*/
@@ -87,6 +86,17 @@ background: linear-gradient(207deg, rgba(1,124,0,0.9953379953379954) 8%, rgba(85
 .postshome{
     position:relative;
     height:50%;
+}
+
+.text{
+    position:absolute;
+    top:45%;
+    left:0%;
+    width:100%;
+}
+
+.card-img-top{
+    width:%;
 }
 
 /*.bg{
