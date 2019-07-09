@@ -42,6 +42,14 @@ h5 {
 }
 
 /* Full Page Carousel itself*/
+.carousel {
+  height: 100%; }
+  .carousel .carousel-inner {
+    height: 100%; }
+    .carousel .carousel-inner .carousel-item,
+    .carousel .carousel-inner .active {
+      height: 100%; }
+
 
 .btn-outline-mine {
   color: #fff;
@@ -88,11 +96,6 @@ h5 {
     width:100%;
 }
 
-.carousel-inner{
-    min-height: 100px;
-    max-height: 300px;
-    
-}
 
 
 
