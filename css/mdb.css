@@ -8383,10 +8383,10 @@ body.scrollable {
   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); }
 
 .morpheus-den-gradient {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#30cfd0), to(#330867));
-  background-image: -webkit-linear-gradient(bottom, #30cfd0 0%, #330867 100%);
-  background-image: -o-linear-gradient(bottom, #30cfd0 0%, #330867 100%);
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); }
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#00c851), to(#330867));
+  background-image: -webkit-linear-gradient(bottom, #00c851 0%, #330867 100%);
+  background-image: -o-linear-gradient(bottom, #00c851 0%, #330867 100%);
+  background-image: linear-gradient(to top, #00c851 0%, #330867 100%); }
 
 .rare-wind-gradient {
   background-image: -webkit-gradient(linear, left bottom, left top, from(#a8edea), to(#fed6e3));
