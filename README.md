@@ -1,5 +1,4 @@
 # Website 
-WIP: just like everything else
 
 ## What it is
 I am creating a website to display my interests, hobbies and personal portfolio. It is currently a *work in progress* and is not hosted on any site but feel free to download the files and check it out if interested.
