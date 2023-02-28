@@ -1,10 +1,5 @@
-# Website 
+# My Website
 
-## What it is
-I am creating a website to display my interests, hobbies and personal portfolio. It is currently a *work in progress* and is not hosted on any site but feel free to download the files and check it out if interested.
+This was my first attempt at a website that I built while in college for a professional development class. I had a lot of fun building it and learned a lot about HTML/CSS/JS along the way. It was built off of a bootstrap5 template and been fairly untouched since it's initial creation. It used to be hosted by my college for viewing but I have since graduated, so now it can be found on [serose99.github.io/Website](https://serose99.github.io/Website) thanks to Github Pages. Feel free to check it out and let me know your thoughts.
 
-## How I'm making it
-I am using a bootstrap framework to create my website. Using the **Brackets** software I can write code and watch it update in real time right on the website. 
-
-## What I am learning
-I am enjoying the process of learning HTML, CSS and some Javascript to create this website from the ground up. It has been a lot of fun customizing everything so far and I'm looking forward to the finished product.
+If you would like to see my most recent website porfolio however head on over to [samrosenberg.io](http://samrosenberg.io) or the repository [Website2.0](https://github.com/serose99/Website2.0)
